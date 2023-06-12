@@ -1,4 +1,4 @@
-### Hi there 👋
+### 👋 Hi there! My name is Rahul
 
 🎓 I recently completed my Master of Science in Computer Science from the University of Colorado Boulder in May 2023.
 
