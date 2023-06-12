@@ -8,7 +8,7 @@ During my tenure as a Data Science Intern at LiveRamp, I actively worked on data
 
 🏔 In my free time you can find me exploring various subreddits or immersing myself in F1 races, anime, and video games.
 
-💪🏽 Core Competencies
+### 💪🏽 Core Competencies
 - Programming Languages: Python, C++, R, SQL, MATLAB
 - Cloud & Developer Tools: Git, Docker, Google Cloud Platform (GCP), BigQuery
 - Libraries & Frameworks: TensorFlow, PyTorch, scikit-learn, pandas, NumPy, Matplotlib, Seaborn, Spark
