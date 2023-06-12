@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+🎓 I recently completed my Master of Science in Computer Science from the University of Colorado Boulder in May 2023.
+
 <!--
 **rahulkumarm/rahulkumarm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
