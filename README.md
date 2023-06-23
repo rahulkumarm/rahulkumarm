@@ -10,7 +10,7 @@ During my tenure as a Data Science Intern at LiveRamp, I actively worked on data
 
 ### 💪🏽 Core Competencies
 - Programming Languages: Python, C++, R, SQL, MATLAB
-- Cloud & Developer Tools: Git, Docker, Google Cloud Platform (GCP), BigQuery
+- Cloud & Developer Tools: Git, Docker, Google Cloud Platform (GCP), BigQuery, Spark
 - Libraries & Frameworks: TensorFlow, PyTorch, scikit-learn, pandas, NumPy, Matplotlib, Seaborn, Spark
 
 **💻** I am actively seeking a full-time position as a Data Scientist where I can leverage my proficiency in machine learning, data analysis, and software development to extract valuable insights from complex datasets. Equipped with strong technical skills in Python, R, scikit-learn, and various deep learning frameworks, I am well-prepared to tackle challenging data problems. My passion lies in utilizing data to drive decision-making and address real-world problems. Should you believe that I would be a suitable candidate for a Data Scientist role, please don't hesitate to reach out and connect with me!
