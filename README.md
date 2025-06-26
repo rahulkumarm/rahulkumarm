@@ -1,19 +1,18 @@
 ### 👋 Hi there! My name is Rahul
 
-**🎓** I recently wrapped up my Master of Science in Computer Science from the University of Colorado Boulder.
+**💻** I'm a Software Engineer with a passion for building intelligent, scalable, and high-performance systems that bridge the gap between software engineering and machine learning. With a strong background in AI, cloud computing, and data-driven systems, I thrive on solving complex problems and optimizing systems for efficiency and real-world impact.
 
-**📚** I possess extensive experience in machine learning, data science, and data visualization. My research primarily revolves around utilizing representation learning and transfer learning techniques to identify and ablate functionally specific neurons in deep learning models.
-In my role as a Graduate Teaching Assistant, I successfully facilitated the learning of Statistics using R by delivering captivating lectures, assessing assignments, and providing consistent feedback to students. Additionally, I taught fundamental concepts of C++, crafted weekly assignments, and offered office hours for additional assistance.
-During my tenure as a Data Science Intern at LiveRamp, I actively worked on data transformation, modeling using XGBoost and scikit-learn, and experimented on sample size and feature selection using BigQuery.
+**💡** My experience spans across machine learning, MLOps, backend development, and cloud infrastructure, where I have worked on designing robust architectures, automating workflows, and improving performance at scale. I enjoy collaborating with cross-functional teams, leveraging cutting-edge technologies, and continuously learning to stay ahead in this fast-evolving field.
 
-**🏔** In my free time you can find me exploring various subreddits or immersing myself in F1 races, anime, and video games.
+**🤝** I’m always open to exploring new opportunities, discussing innovative ideas, and connecting with like-minded professionals who are passionate about AI and software engineering. Let’s build something impactful together!
+
+**🏔** In my free time, you can find me vibe coding fun side projects, exploring various subreddits or immersing myself in some sport (current - Pickleball).
 
 ### 💪🏽 Core Competencies
-- Programming Languages: Python, C++, R, SQL, MATLAB
-- Cloud & Developer Tools: Git, Docker, Google Cloud Platform (GCP), BigQuery, Spark
-- Libraries & Frameworks: TensorFlow, PyTorch, scikit-learn, pandas, NumPy, Matplotlib, Seaborn, Spark
-
-**💻** I am actively seeking a full-time position as a Data Scientist where I can leverage my proficiency in machine learning, data analysis, and software development to extract valuable insights from complex datasets. Equipped with strong technical skills in Python, R, scikit-learn, and various deep learning frameworks, I am well-prepared to tackle challenging data problems. My passion lies in utilizing data to drive decision-making and address real-world problems. Should you believe that I would be a suitable candidate for a Data Scientist role, please don't hesitate to reach out and connect with me!
+- Programming Languages: Python, C++, Java, Go, JavaScript, TypeScript, SQL
+- Cloud & Developer Tools: React, PySpark, Power BI, AWS, GCP, Kubernetes, GitHub, Docker, Airflow, Node.js, Jenkins, CI/CD
+- Machine Learning: Pandas, NumPy, PyTorch, Tensorflow, Hugging Face, Scikit-learn
+- Databases: MySQL, Postgres, DynamoDB, MongoDB, Redis
 
 <!--
 **rahulkumarm/rahulkumarm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
